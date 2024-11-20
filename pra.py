@@ -1,1 +1,5 @@
-"print("hello one")"
+
+print("hello one")
+
+print("hello two")
+
